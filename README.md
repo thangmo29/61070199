@@ -10,7 +10,7 @@
   - pip3 install opencv-python
   - pip install numpy
   - pip3 install tensorflow
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  
 ***# Download this repository and create virtual environment***
   - git clone https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
 
@@ -33,8 +33,9 @@
  - unzip coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip -d Sample_TFLite_model
  
  ***# Run the TensorFlow Lite model***
+  - python3 TFLite_detection_webcam.py --modeldir=Sample_TFLite_model
 
-       # ขั้นตอนการใช้งาน
+# ขั้นตอนการใช้งาน
 1. cd tflite1 เพื่อเข้าไปโฟลเดอร์ที่เก็บไฟล์
 2. เปิด Virtual Environment โดยพิมพ์ source tflite1-env/bin/activate
 3. จากนั้นทำการรันไฟล์ด้วยการพิมพ์ python3 TFLite_detection_webcam.py --modeldir=Sample_TFLite_model
