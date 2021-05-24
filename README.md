@@ -1,7 +1,8 @@
 # ระบบตรวจจับถ้าเป็นนาฬิกาเเล้วไฟจะติด
 - ทำระบบตรวจจับวัตถุเเล้วเเสดงสีออกทางหลอดไฟ
 - ใช้ Opencv & TensorFlow
- 
+ ![image](https://user-images.githubusercontent.com/41448294/119349907-ed8f3a80-bcc8-11eb-9c13-8c30400be314.png)
+
 # ขั้นตอนการติดตั้ง
 ***# Install***
   - sudo apt-get update
