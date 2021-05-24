@@ -222,7 +222,7 @@ while True:
                 cv2.rectangle(frame, (xmin, label_ymin-labelSize[1]-10), (xmin+labelSize[0], label_ymin+baseLine-10), (255, 255, 255), cv2.FILLED) # Draw white box to put label text in
                 cv2.putText(frame, label, (xmin, label_ymin-7), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 0), 2) # Draw label text
     
-                if (object_name == 'cell phone'):
+                if (object_name == 'clock'):
                     GPIO.output(LIGHT,True)
                     time.sleep(0.5)
                     GPIO.output(LIGHT,False)
