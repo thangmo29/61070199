@@ -2,7 +2,7 @@
 - ทำระบบตรวจจับวัตถุเเล้วเเสดงสีออกทางหลอดไฟ
 - ใช้ Opencv & TensorFlow
      # ขั้นตอนการติดตั้ง
-  #Install
+# Install
   - sudo apt-get update
   - sudo apt-get dist-upgrade
   - sudo apt-get install python-picamera
