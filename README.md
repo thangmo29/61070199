@@ -1,8 +1,8 @@
 # ระบบตรวจจับโทรศัพท์เเล้วไฟติด
 - ทำระบบตรวจจับวัตถุเเล้วเเสดงสีออกทางหลอดไฟ
 - ใช้ Opencv & TensorFlow
-   ![image](https://user-images.githubusercontent.com/41448294/119343383-8ff6f000-bcc0-11eb-94e7-89cf51fa9fe6.png)
-  # ขั้นตอนการติดตั้ง
+
+![image](https://user-images.githubusercontent.com/41448294/119343468-b157dc00-bcc0-11eb-996e-d8c1f65ceb31.png) # ขั้นตอนการติดตั้ง
 # Install
   - sudo apt-get update
   - sudo apt-get dist-upgrade
