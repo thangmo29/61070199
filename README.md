@@ -9,6 +9,7 @@
   - sudo apt-get install python-picamera
   - pip3 install opencv-python
   - pip install numpy
+  - pip3 install tensorflow
 
 ***# Download this repository and create virtual environment***
   - git clone https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
@@ -24,6 +25,10 @@
 ***# เปิดการใช้งาน virtual environment***
   - source tflite1-env/bin/activate
 
+***# Install TensorFlow Lite and OpenCV ***
+ - bash get_pi_requirements.sh
+ 
+***# Set up TensorFlow Lite detection model***
 
        # ขั้นตอนการใช้งาน
 1. cd tflite1 เพื่อเข้าไปโฟลเดอร์ที่เก็บไฟล์
