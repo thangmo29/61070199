@@ -10,7 +10,10 @@
   - pip3 install opencv-python
   - pip install numpy
   - pip3 install tensorflow
-  
+
+***# ทำการ Enable Camera***
+![Uploading image.png…]()
+
 ***# Download this repository and create virtual environment***
   - git clone https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
 
