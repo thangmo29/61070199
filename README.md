@@ -11,8 +11,8 @@
   - pip install numpy
   - pip3 install tensorflow
 
-***# ทำการ Enable Camera***
-![image](https://user-images.githubusercontent.com/41448294/119434592-b2315200-bd42-11eb-84b2-b4808ef2df5f.png)
+***# ทำการ Enable Camera***\
+  - ![image](https://user-images.githubusercontent.com/41448294/119434592-b2315200-bd42-11eb-84b2-b4808ef2df5f.png)
 
 
 ***# Download this repository and create virtual environment***
